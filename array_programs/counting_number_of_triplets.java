@@ -1,4 +1,5 @@
 //Question :-count the number of triplets such that the sum of the third element is equal to the rest two
+import java.util.*;
 class Main{
   public static void main(String[] args){
     int a[]= {1,2,5,3,6};

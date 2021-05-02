@@ -1,4 +1,5 @@
- class Main{
+import java.util.*;
+class Main{
  public static void main(String[] args)
  int a[] = {56,78,90,32,67,12}; 
 	Arrays.sort(a);

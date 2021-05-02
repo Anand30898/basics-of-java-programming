@@ -1,4 +1,5 @@
 // question:- find the missing number in the series
+import java.util.*;
 class Main{
   public static void main(String[] args){
     int a[]= {1,2,4};
